@@ -1,4 +1,4 @@
-# deserted_chess
+# Inukas Chess Engine
 A chess engine written in java utilizing inheritance and polymorphism. Made as a project to learn object oriented programming deeply. 
 
 # Move generation
